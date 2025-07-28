@@ -3,7 +3,7 @@
 Este repositorio documenta el trabajo desarrollado por el estudiante **Kevin Jesús Martínez Trinidad** durante su estancia técnica de verano 2025 en el área de Análisis de Datos del centro de investigación **CIDESI**.
 
 ## 🎯 Objetivo
-Aplicar herramientas de análisis de datos y visualización para interpretar información proveniente de sensores conectados a sistemas industriales, identificar patrones, evaluar el comportamiento operativo de las máquinas, y generar indicadores clave de desempeño (KPIs).
+Desarrollar visualizaciones interactivas (dashboards) y análisis de correlación para variables capturadas por sensores IIoT conectados a una máquina CNC, con el fin de mejorar el entendimiento del comportamiento del sistema y apoyar la toma de decisiones basada en datos.
 
 ## 📦 Contenido del Repositorio
 - 📊 **Notebooks** de análisis y visualización de datos con Python.
